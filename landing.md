@@ -2,7 +2,7 @@
 title: Landing
 layout: landing
 description: 'The landing page for my site!'
-image: assets/images/pic07.jpg
+image: assets/images/home.png
 nav-menu: true
 ---
 
