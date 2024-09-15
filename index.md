@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Kidanny'
 description: null
-image: https://avatars.githubusercontent.com/u/97367805?v=4
+image: assets/images/home.png
 author: null
 show_tile: false
 ---
