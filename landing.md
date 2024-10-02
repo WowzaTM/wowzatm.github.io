@@ -2,7 +2,7 @@
 title: Landing
 layout: landing
 description: 'The landing page for my site!'
-image: assets/images/pic07.jpg
+image: assets/images/home.png
 nav-menu: true
 ---
 
@@ -22,17 +22,17 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="https://education.github.com" class="image">
+			<img src="{% link assets/images/githublogo.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Github Student!</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Github Student offers so many things for free! Always wanted your own website (domain) but can't afford it? Don't worry if you sign up for Github Student you can get a website for free for a whole year!!! I hope you enjoy what Github Student offers.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://education.github.com" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Blogs!</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>I am not the best at writing blogs but I do like making them! Me and my friend are planning to make some soon!</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

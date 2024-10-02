@@ -1,7 +1,7 @@
 # site settings
-title: Kidanny Roman's site
+title: Kidanny's site
 subtitle:
-email: kidannyjunior10@gmail.com
+email: jay@wowzatm.me
 description: Welcomne to my site!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ city:
 state: 
 zip_code: 
 country: United States of America
-phone: (313) 338-9431
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,7 +22,7 @@ tiles-count: 0
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/WowzaTM
+  GitHub: https://github.com/TechKidJr
   GitLab:
   Google-Plus: 
   Instagram:
